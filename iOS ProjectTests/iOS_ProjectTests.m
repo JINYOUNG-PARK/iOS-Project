@@ -10,23 +10,18 @@
 
 @implementation iOS_ProjectTests
 
-- (void)setUp
-{
-    [super setUp];
-    
-    // Set-up code here.
+- (void)setUp {
+	[super setUp];
 }
 
-- (void)tearDown
-{
-    // Tear-down code here.
-    
-    [super tearDown];
+
+- (void)tearDown {
+	[super tearDown];
 }
 
-- (void)testExample
-{
-    STFail(@"Unit tests are not implemented yet in iOS ProjectTests");
+
+- (void)testExample {
+	STFail(@"Unit tests are not implemented yet in iOS ProjectTests");
 }
 
 @end
